@@ -14,7 +14,7 @@ Perfect for powering ESP32, Arduino, sensors, or any 3.3V microcontroller/projec
 ![PCB Layout](PCB layout design.png)
 **PCB Layout** – Compact 2-layer design with clear labeling
 
-![3D View Front](3D view.png)
+![3D View Front](https://github.com/Awad235/5V-to-3.3V-LDO-Regulator-PCB/blob/83de6f156d9c40accfa5223c32e75af3b5ff64e5/3D%20view/3D%20view.png)
 **3D Render (Front)** – Professional look with components placed
 
 ![3D View Back](https://github.com/Awad235/5V-to-3.3V-LDO-Regulator-PCB/blob/105e766f723e5859e9febe2f0bbbf1fbc27d35e7/3D%20view/3D%20view%20back.png)
