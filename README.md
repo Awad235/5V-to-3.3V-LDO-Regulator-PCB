@@ -8,10 +8,10 @@ Perfect for powering ESP32, Arduino, sensors, or any 3.3V microcontroller/projec
 
 ## 📸 Visuals
 
-![Schematic Diagram](Regulator Schematic.png)
+![Schematic Diagram](https://github.com/Awad235/5V-to-3.3V-LDO-Regulator-PCB/blob/f35f31b93b78c6c479c171c6f0f8eed454c1e3e6/docs/Regulator%20Schematic.png)
 **Schematic** – Clean & simple linear regulation
 
-![PCB Layout](PCB layout design.png)
+![PCB Layout](https://github.com/Awad235/5V-to-3.3V-LDO-Regulator-PCB/blob/f35f31b93b78c6c479c171c6f0f8eed454c1e3e6/docs/PCB%20layout%20design.png)
 **PCB Layout** – Compact 2-layer design with clear labeling
 
 ![3D View Front](https://github.com/Awad235/5V-to-3.3V-LDO-Regulator-PCB/blob/83de6f156d9c40accfa5223c32e75af3b5ff64e5/3D%20view/3D%20view.png)
@@ -73,6 +73,3 @@ Perfect for powering ESP32, Arduino, sensors, or any 3.3V microcontroller/projec
 Made with ❤️ in Bengaluru. Feel free to fork, improve, or use this in your projects!
 
 ---
-
-**Star ⭐ this repo if you found it useful!**  
-Questions? Open an issue or DM me on LinkedIn.
